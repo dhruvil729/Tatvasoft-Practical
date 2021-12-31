@@ -7,4 +7,4 @@ Please follow these steps to get this project workin.
 3. Please import sql file from the root folder into the database (SQL File: event.sql)
 4. Please change database credentials in config database file
 5. Please run following command to run the project
-     php -S localhost:8000
+6. php -S localhost:8000
